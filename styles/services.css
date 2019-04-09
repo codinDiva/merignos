@@ -459,7 +459,8 @@ section
 	line-height: 0.75;
 	letter-spacing: 0.02em;
 	text-transform: uppercase;
-	color: #242424;
+	color: #ff3333;
+    font-weight: bold;
 }
 .logo_line_1 span
 {
@@ -469,7 +470,7 @@ section
 .logo_line_2
 {
 	font-size: 11px;
-	color: #909090;
+	color: #101010;
 	margin-top: -1px;
 	padding-left: 1px;
 }
@@ -587,7 +588,7 @@ section
 .main_menu
 {
 	width: 100%;
-	background: #ffa800;
+	background: #ce9b00;
 }
 .main_menu_container
 {
@@ -1103,7 +1104,7 @@ section
 }
 .service:hover
 {
-	background: #ffa800;
+	background: #ce9b00;
 }
 .service:nth-child(3n+3)
 {
@@ -1343,7 +1344,7 @@ section
 .footer
 {
 	padding-top: 120px;
-	background: #ffa800;
+	background: #15191f;
 }
 .footer_logo
 {
@@ -1353,7 +1354,7 @@ section
 }
 .footer_logo .logo_line_1
 {
-	color: #FFFFFF;
+	color: #ff3333;
 }
 .footer_about_text
 {

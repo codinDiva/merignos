@@ -483,11 +483,12 @@ section
 	line-height: 0.75;
 	letter-spacing: 0.02em;
 	text-transform: uppercase;
-	color: #242424;
+	color: #ff3333;
+    font-weight: bold;
 }
 .logo_line_1 span
 {
-	color: #ffa800;
+	color: #ff3333;
 	font-weight: bold;
 }
 .logo_line_2
@@ -611,7 +612,7 @@ section
 .main_menu
 {
 	width: 100%;
-	background: #003679;
+	background: #ce9b00;
 }
 .main_menu_container
 {
@@ -1648,7 +1649,7 @@ section
 }
 .footer_logo .logo_line_1
 {
-	color: #FFFFFF;
+	color: #FF3333;
 }
 .footer_about_text
 {
