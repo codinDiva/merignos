@@ -615,12 +615,12 @@ section
 	left: -9px;
 	width: calc(100% + 12px);
 	height: 3px;
-	background: #ffa800;
+	background: #ceb900;
 	content: '';
 }
 .main_menu_list > li.active > a
 {
-	color: #ffa800;
+	color: #ffffff;
 }
 .main_menu_list li a
 {
@@ -639,7 +639,7 @@ section
 }
 .main_menu_list li a:hover
 {
-	color: #ffa800;
+	color: #000000;
 }
 .main_menu_list li a svg
 {
@@ -654,7 +654,7 @@ section
 .main_menu_list li.hassubs.active .arrow_d,
 .main_menu_list li.hassubs:hover .arrow_d
 {
-	stroke: #ffa800;
+	stroke: #ce9b00;
 }
 .main_menu_list li ul
 {
@@ -664,7 +664,7 @@ section
 	left: -15px;
 	visibility: hidden;
 	opacity: 0;
-	background: #FFFFFF;
+	background: #ce9b00;
 	padding: 15px;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -684,7 +684,7 @@ section
 }
 .main_menu_list li ul li a
 {
-	color: #003679;
+	color: #ffffff;
 	line-height: 40px;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -694,7 +694,7 @@ section
 }
 .main_menu_list li ul li a:hover
 {
-	color: #ffa800;
+	color: #ce9b00;
 }
 .main_menu_list li ul li a img
 {
@@ -1169,9 +1169,10 @@ section
 	-ms-transform: translateY(-50%);
 	-o-transform: translateY(-50%);
 	transform: translateY(-50%);
-	left: calc(50vw + 65px);
+	left: 150px;
 	width: 461px;
 	height: 361px;
+    margin-right: auto;
 }
 .map_contact_inner
 {
